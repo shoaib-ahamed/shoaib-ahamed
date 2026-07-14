@@ -1,49 +1,20 @@
-### Hi there 👋, I'm Shoaib Ahamed Shafi
+# 💫 About Me:
+<br>**🔭 I'm currently working on**<br>Production-grade agentic AI systems — LangGraph-based pipelines with RAG, tool use, and human-in-the-loop patterns, built for cost-constrained, high-stakes markets.<br><br>**👯 I'm looking to collaborate on**<br>Consumer app ideas for the international market — quick-to-validate, high-virality tools (I use a "content-first" approach: fake UI + demo video before writing backend code).<br><br>**🤝 I'm looking for help with**<br>Connecting with teams and founders building serious agentic AI products, especially ones open to remote/distributed engineers.<br><br>**🌱 I'm currently learning**<br>On-device and edge LLM inference — LiteRT, llama.cpp, MLC-LLM — and TinyML on ESP32-class hardware for privacy-first IoT.<br><br>**💬 Ask me about**<br>LangGraph architecture, RAG pipeline design (hybrid BM25 + vector retrieval), agentic patterns (ReAct, Reflexion, Plan-and-Execute), and LLM cost optimization at scale.<br><br>**⚡ Fun fact**<br>I started in Software Engineering before pivoting fully into AI engineering — still occasionally miss debugging gas fees.
 
-AI Engineer based in **Dhaka, Bangladesh**, building production agentic systems for cost-constrained, high-stakes markets. I come from a full-stack + DevOps background (JS/Node, React/Next, GCP) and now work primarily on LLM-powered products — orchestration, retrieval, and deployment, not just demos.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-ahamed-shafi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shoaibahamedshafi@gmail.com) 
 
-- 🔭 I'm currently building an agentic AI product aimed at automating repetitive, high-friction workflows — targeting first paying users in 2026
-- 🌱 I'm currently going deeper on agent architecture patterns (harness-and-loop), hybrid retrieval, and on-device/small-model inference (Ollama, MLX)
-- 👯 I'm looking to collaborate on open-source LangGraph/agentic tooling and Node.js/React projects
-- 🤔 I'm looking for help with — and also happy to help on — production RAG/agent systems, cost-aware LLM architecture, and GCP deployment patterns
-- 💬 Ask me about LangGraph, RAG pipelines, agentic system design, or full-stack development with Node.js/React
-- 📫 Open to remote AI Engineering roles — reach me on [LinkedIn](https://www.linkedin.com/in/shoaib-ahamed-shafi/) or [email](mailto:shoaibahamedshafi@gmail.com)
-- ⚡ Fun fact: I'm also the General Secretary of my building's flat owners' committee — turns out managing shared infrastructure isn't so different from managing distributed systems
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shoaib-ahamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shoaib-ahamed&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shoaib-ahamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-### 🛠️ Skills
-
-**AI / Agentic Systems**
-![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Backend**
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-**Data & Retrieval**
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/badge/-Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
-
-**Cloud & Infra**
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=shoaib-ahamed&color=blueviolet&style=flat)](https://github.com/shoaib-ahamed)
 
-
-### 📫 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-ahamed-shafi/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shoaibahamedshafi@gmail.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
